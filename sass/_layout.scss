@@ -1,0 +1,10 @@
+body {
+  min-width: 100vw;
+  min-height: $layout-dk-h;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: $color-off-white;
+}

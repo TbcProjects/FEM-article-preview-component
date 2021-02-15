@@ -1,0 +1,22 @@
+{
+  "name": "article-preview-component-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass  -w sass -o public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TbcProjects/FEM-article-preview-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TbcProjects/FEM-article-preview-component/issues"
+  },
+  "homepage": "https://github.com/TbcProjects/FEM-article-preview-component#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

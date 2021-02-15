@@ -1,0 +1,23 @@
+.article-preview {
+  height: 512px;
+  width: 327px;
+  overflow: hidden;
+
+  background-color: $color-white;
+  border: 1px solid #000000;
+  border-radius: 10px;
+
+  img {
+    height: 200px;
+    width: 327px;
+  }
+}
+
+// attributions
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

@@ -1,0 +1,31 @@
+// **[FONTS]**
+
+// typeface
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@500;700&display=swap");
+$font-face: "Spartan", sans-serif;
+
+// weight
+$font-regular: 500;
+$font-bold: 700;
+// size
+
+$font-base: 16px;
+$font-headline: 1.25rem;
+$font-body: 0.813rem;
+
+// **[COLOURS]**
+
+// primary
+$color-white: #fff;
+$color-off-white: #edf2f8;
+
+// secondary
+$color-darkgrey: #48556a;
+$color-grey: #6e8098;
+$color-lightgrey: #9daec2;
+
+// **[LAYOUTS]**
+$layout-mb-w: 23.438rem;
+$layout-mb-h: 41.688rem;
+$layout-dk-w: 90rem;
+$layout-dk-h: 50rem;
